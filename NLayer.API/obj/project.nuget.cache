@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "fsuTLcjtuT/3tGn5hVe2VhR8MhPjLLEAr2riVeg8e2KuNADSfy3LvXfBD4bhkT8fauf6YCzAKX0lXgKOyW9COw==",
+  "success": true,
+  "projectFilePath": "E:\\NLayerApp\\NLayer.API\\NLayer.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MertOzen\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\MertOzen\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\MertOzen\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\MertOzen\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\MertOzen\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\MertOzen\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

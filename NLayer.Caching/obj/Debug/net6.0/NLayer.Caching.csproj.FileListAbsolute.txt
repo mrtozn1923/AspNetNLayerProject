@@ -1,0 +1,12 @@
+E:\NLayerApp\NLayer.Caching\bin\Debug\net6.0\NLayer.Caching.deps.json
+E:\NLayerApp\NLayer.Caching\bin\Debug\net6.0\NLayer.Caching.dll
+E:\NLayerApp\NLayer.Caching\bin\Debug\net6.0\NLayer.Caching.pdb
+E:\NLayerApp\NLayer.Caching\obj\Debug\net6.0\NLayer.Caching.csproj.AssemblyReference.cache
+E:\NLayerApp\NLayer.Caching\obj\Debug\net6.0\NLayer.Caching.GeneratedMSBuildEditorConfig.editorconfig
+E:\NLayerApp\NLayer.Caching\obj\Debug\net6.0\NLayer.Caching.AssemblyInfoInputs.cache
+E:\NLayerApp\NLayer.Caching\obj\Debug\net6.0\NLayer.Caching.AssemblyInfo.cs
+E:\NLayerApp\NLayer.Caching\obj\Debug\net6.0\NLayer.Caching.csproj.CoreCompileInputs.cache
+E:\NLayerApp\NLayer.Caching\obj\Debug\net6.0\NLayer.Caching.dll
+E:\NLayerApp\NLayer.Caching\obj\Debug\net6.0\refint\NLayer.Caching.dll
+E:\NLayerApp\NLayer.Caching\obj\Debug\net6.0\NLayer.Caching.pdb
+E:\NLayerApp\NLayer.Caching\obj\Debug\net6.0\ref\NLayer.Caching.dll
